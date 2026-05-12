@@ -23,9 +23,10 @@ The data required is queried periodically and the live data is then displayed us
 
  Snippets:
 
-<img width="1875" height="808" alt="Dashboard-1" src="https://github.com/user-attachments/assets/84bfe487-2d08-415f-83c3-71eec2157845" />
+<img width="891" height="808" alt="Dashboard-1" src="https://github.com/user-attachments/assets/84bfe487-2d08-415f-83c3-71eec2157845" />
 
 <img width="891" height="430" alt="Dashboard-2" src="https://github.com/user-attachments/assets/8b45c637-25f3-4af7-b5da-8a6affe6027b" />
+
 
  PS: If you want to see more of our dashboard, do it yourself!
 
